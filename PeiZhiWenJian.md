@@ -11,7 +11,7 @@
         {
           "id": "uuid换成你自己的",
           "alterId": 64,
-          "security": "加密方式自己选"
+          "security": "aes-128-cfb"
         }
       ]
     },
